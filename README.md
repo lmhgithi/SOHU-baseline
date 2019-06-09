@@ -1,5 +1,7 @@
 * 5月10日更新，初赛结束，总分排名6，应该进决赛了，比赛结束后会放出一个分数55+实体的单模代码
 
+* 决赛lgb代码：https://github.com/lmhgithi/2019-sohu-competition
+
 # SOHU-baseline
 # 搜狐算法大赛（实体抽取+情感预测）的baseline~
 
